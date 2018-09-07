@@ -1,15 +1,22 @@
 [
-    {
-        "text": "Home",
-        "link": "/"
-    }, {
-        "text": "My CV",
-        "link": "/my-cv"
-    }, {
-        "text": "Contact me",
-        "link": "/contact"
-    }, {
-        "text": "Admin",
-        "link": "/admin"
-    }
+  {
+    "text": "Home",
+    "link": "/"
+  },
+  {
+    "text": "My CV",
+    "link": "/my-cv"
+  },
+  {
+    "text": "Contact me",
+    "link": "/contact"
+  },
+  {
+    "text": "Admin",
+    "link": "/admin"
+  },
+  {
+    "text": "My Hobbies",
+    "link": "/myhobbies"
+  }
 ]
